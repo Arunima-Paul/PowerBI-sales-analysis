@@ -18,6 +18,7 @@ iv) Genre Popularity: What Do Gamers Love?
 •	Sports games lead with 691M+ sales, followed closely by Action (634M) and Shooter (554M).
 •	Role-Playing and Racing genres are also quite popular.
 •	Puzzle and Strategy games have the lowest sales, indicating niche audiences.
+•	In this Bar Chart another Matrix visual is used as Tooltip showcasing Regionwise sales against different Genres.
 
 v) Through trend analysis and regional sales breakdowns, we can uncover valuable insights into how the industry has transformed over time.
 •	The number of gaming genres has steadily increased from the 1980s to the early 2010s, reaching a peak before a decline.
@@ -27,6 +28,7 @@ The sharp drop suggests a shift from traditional gaming consoles to digital and 
 
 vi) Regional Preferences: While in Europe, North America and Rest of World Racing & Sports games dominate , in Japan niche games like Platform & Puzzle games dominate with 19.32 Million sales.
 •	Action, Adventure, Fighting, and Shooter games also hold a significant share, but much lower than sports games.
+•	The visual is built using Bookmark and Selection Pane tools.
 
 vii) Video Game Reviews & Sales: An Analytical Perspective- 
 •	The FIFA series dominates the top-rated games, with FIFA Soccer 08 (467 reviews), FIFA Soccer 10 (407 reviews), and FIFA Soccer 09 (342 reviews).
