@@ -47,5 +47,6 @@ i) Game developers should target high-performing genres like Sports, Action, Sho
 ii) Understand shifting trends e.g. rise of digital platforms, cloud gaming, VR/AR gaming.
 iii) Explore new markets like mobile gaming, subscription-based gaming. 
 
+Dataset obtained from Kaggle.
 
 
