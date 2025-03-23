@@ -3,6 +3,7 @@ Video Game Sales: A Data-Driven Analysis-
 Video games have evolved into one of the biggest entertainment industries worldwide. 
 By analyzing global sales trends, genre popularity, and top-selling games, we can uncover valuable insights into market dynamics. 
 Let’s dive into the key findings from our Power BI dashboard.
+
 i) There are 1,505 unique game titles in the dataset, with a total of 4.7K million units sold globally.
 
 ii) Certain games have far outperformed others, contributing significantly to overall sales. The Top 10 Best-Selling Games-
