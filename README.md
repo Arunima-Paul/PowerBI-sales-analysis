@@ -4,6 +4,9 @@ Video games have evolved into one of the biggest entertainment industries worldw
 By analyzing global sales trends, genre popularity, and top-selling games, we can uncover valuable insights into market dynamics. 
 Let’s dive into the key findings from our Power BI dashboard.
 
+![Sales](https://github.com/user-attachments/assets/2f1c585b-a7b9-4f60-959f-887afa6b905f)
+
+
 i) There are 1,505 unique game titles in the dataset, with a total of 4.7K million units sold globally.
 
 ii) Certain games have far outperformed others, contributing significantly to overall sales. The Top 10 Best-Selling Games-
@@ -20,6 +23,9 @@ iv) Genre Popularity: What Do Gamers Love?
 •	Puzzle and Strategy games have the lowest sales, indicating niche audiences.
 •	In this Bar Chart another Matrix visual is used as Tooltip showcasing Regionwise sales against different Genres.
 
+![Trend](https://github.com/user-attachments/assets/4a1dd734-087d-41b4-8779-8c884ba3122e)
+
+
 v) Through trend analysis and regional sales breakdowns, we can uncover valuable insights into how the industry has transformed over time.
 •	The number of gaming genres has steadily increased from the 1980s to the early 2010s, reaching a peak before a decline.
 •	The industry witnessed a boom in genre diversity from the 1990s to 2010, likely due to advancements in gaming technology and player preferences evolving.
@@ -29,6 +35,9 @@ The sharp drop suggests a shift from traditional gaming consoles to digital and 
 vi) Regional Preferences: While in Europe, North America and Rest of World Racing & Sports games dominate , in Japan niche games like Platform & Puzzle games dominate with 19.32 Million sales.
 •	Action, Adventure, Fighting, and Shooter games also hold a significant share, but much lower than sports games.
 •	The visual is built using Bookmark and Selection Pane tools.
+
+![Ranking](https://github.com/user-attachments/assets/da6f6f82-0519-4328-9690-f6819ab42929)
+
 
 vii) Video Game Reviews & Sales: An Analytical Perspective- 
 •	The FIFA series dominates the top-rated games, with FIFA Soccer 08 (467 reviews), FIFA Soccer 10 (407 reviews), and FIFA Soccer 09 (342 reviews).
