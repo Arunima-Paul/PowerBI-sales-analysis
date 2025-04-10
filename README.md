@@ -1,5 +1,8 @@
 PowerBI-sales-analysis.
 Video Game Sales: A Data-Driven Analysis- 
+
+https://app.powerbi.com/groups/me/reports/b1752333-36cb-4c60-966f-3d8739be0e9b/4dbeb38672c164261025?experience=power-bi&bookmarkGuid=1ce8c9480572d25075e0
+
 Video games have evolved into one of the biggest entertainment industries worldwide. 
 By analyzing global sales trends, genre popularity, and top-selling games, we can uncover valuable insights into market dynamics. 
 Let’s dive into the key findings from our Power BI dashboard.
